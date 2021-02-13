@@ -1,6 +1,7 @@
 ################### Scope ####################
 
 enemies = 1
+player_health = 10
 
 def increase_enemies():
   enemies = 2
