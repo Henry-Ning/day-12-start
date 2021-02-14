@@ -9,3 +9,5 @@ def increase_enemies():
 
 increase_enemies()
 print(f"enemies outside function: {enemies}")
+
+# If statement does not create local scope. Def does. Variables created under if statements are global variables. 
